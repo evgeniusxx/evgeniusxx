@@ -5,10 +5,10 @@
 - 🔭 Читаю книги по JS, закрепляю знания, получаю новые, пишу небольшой пет-проект
 - 👯 Моя основная цель - сменить род деятельности и устроиться frontend-разработчиком, чтобы применять полученные знания и развиваться дальше.
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Languages and tools:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,webpack,vite,git" height="40" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,webpack,vite,git,figma,stackoverflow" height="40" alt="skills logos"  />
   <img width="12" />
 </div>
 <!--
