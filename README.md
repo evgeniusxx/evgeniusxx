@@ -8,7 +8,7 @@
 <h3 align="left">🛠 Languages and tools:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,postgres,mongodb,docker,git,js,ts,nodejs,html,css,react" height="40" alt="skills logos"  />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,js,html,css,react,git" height="40" alt="skills logos"  />
   <img width="12" />
 </div>
 <!--
